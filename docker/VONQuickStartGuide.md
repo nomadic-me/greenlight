@@ -7,6 +7,8 @@ A "complete" VON Network consists of the following components;
 
 The following **Quick Start Guide** will have you up and running in no time.  For specific details on the features and operation of the individual components refer to the docker compose documentation of the given projects.  For now, let's get you started with a working set of applications ...
 
+Note that in order to use Docker Desktop (> version 3.4.0), make sure you uncheck the "Use Docker Compose V2" in Docker Desktop > Preferences > General.  Refer to this issue for additional details; [#170](https://github.com/bcgov/von-network/issues/170#issuecomment-972898014)
+
 ## Quick Start Guide
 
 1. Open shell windows (Git Bash for instance) to your working copies of `.../von-network`, `.../TheOrgBook/docker`, and `.../greenlight/docker`.
